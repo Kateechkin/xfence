@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c611caa73808d64c58a9",
-    "url": "/css/app.eced2b48.css"
+    "revision": "79380daa1d5c768f1c9c",
+    "url": "/css/app.c4141a0b.css"
   },
   {
     "revision": "43d718b52abd2c8a435ad2dd412b9b5e",
@@ -104,8 +104,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/guard-fence.f4b72e4b.jpg"
   },
   {
+    "revision": "d2858a1047383d8077aad5912c96e0b0",
+    "url": "/img/guard-goal-A.d2858a10.jpg"
+  },
+  {
+    "revision": "0325d2207cf84c943efabae578e50f17",
+    "url": "/img/guard-goal-B.0325d220.jpg"
+  },
+  {
+    "revision": "86bdcf6b3133f390caa50434442bdabc",
+    "url": "/img/guard-goal-C.86bdcf6b.jpg"
+  },
+  {
+    "revision": "a5639b5dc6f4c1a6f91a3182b0a191cf",
+    "url": "/img/guard-goal-D.a5639b5d.jpg"
+  },
+  {
+    "revision": "ae31efefef33d9be0071881454bec748",
+    "url": "/img/guard-goal-E.ae31efef.jpg"
+  },
+  {
     "revision": "27201eff0fd3d18495db8dc65de4be1c",
     "url": "/img/guard-goal.27201eff.jpg"
+  },
+  {
+    "revision": "54040837c854eb4dc2dcbbb4fe54b25c",
+    "url": "/img/guard-wicket-A.54040837.jpg"
+  },
+  {
+    "revision": "46e48ef46319611e6797e8d8a7f4b3d4",
+    "url": "/img/guard-wicket-B.46e48ef4.jpg"
+  },
+  {
+    "revision": "9baa0596460ab4c68bc4843485b847aa",
+    "url": "/img/guard-wicket-C.9baa0596.jpg"
+  },
+  {
+    "revision": "9f52788d7b8460f0f044756cdd1b0ad2",
+    "url": "/img/guard-wicket-D.9f52788d.jpg"
+  },
+  {
+    "revision": "91f12291bfd2b9dfa37da27d0a2a51a1",
+    "url": "/img/guard-wicket-E.91f12291.jpg"
   },
   {
     "revision": "1fe3f708f489ba63064777e608da04ba",
@@ -188,8 +228,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/prestige-fence.224741fb.jpg"
   },
   {
+    "revision": "2741c5b037d1f200194dd88630da2842",
+    "url": "/img/prestige-goal-A.2741c5b0.jpg"
+  },
+  {
+    "revision": "34acdedba997ed6eb8cc79d351e7a50e",
+    "url": "/img/prestige-goal-B.34acdedb.jpg"
+  },
+  {
+    "revision": "2b4fcf69a35cfdc95c341c9be2735976",
+    "url": "/img/prestige-goal-C.2b4fcf69.jpg"
+  },
+  {
+    "revision": "834d8eba48920007a062a4c5a73e03fc",
+    "url": "/img/prestige-goal-D.834d8eba.jpg"
+  },
+  {
+    "revision": "5f076298fe8023577c2c0991cdccf496",
+    "url": "/img/prestige-goal-E.5f076298.jpg"
+  },
+  {
     "revision": "0b66075af57efd4c667522345d4b942e",
     "url": "/img/prestige-goal.0b66075a.jpg"
+  },
+  {
+    "revision": "b18eb7803d21c2fd0d1a4a78ddb8676f",
+    "url": "/img/prestige-wicket-A.b18eb780.jpg"
+  },
+  {
+    "revision": "25b2a89d1a98d71525b98e6b7816f6b3",
+    "url": "/img/prestige-wicket-B.25b2a89d.jpg"
+  },
+  {
+    "revision": "bc7219bfcb3a2d939e16bb66dc05589c",
+    "url": "/img/prestige-wicket-C.bc7219bf.jpg"
+  },
+  {
+    "revision": "363f712a1b80c5567b3a2ece9454dee2",
+    "url": "/img/prestige-wicket-D.363f712a.jpg"
+  },
+  {
+    "revision": "e43052b9fd86aa1204794adfbb96f0d2",
+    "url": "/img/prestige-wicket-E.e43052b9.jpg"
   },
   {
     "revision": "d35cbdbb6ce1e2fe5f5cb4b16895acf3",
@@ -252,8 +332,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/standart-fence.83f8d9c6.jpg"
   },
   {
+    "revision": "22a59dde33ff24412a79e7d3abc81813",
+    "url": "/img/standart-goal-A.22a59dde.jpg"
+  },
+  {
+    "revision": "91ad1ade962d53e65db970edaa6a3b45",
+    "url": "/img/standart-goal-B.91ad1ade.jpg"
+  },
+  {
+    "revision": "52d81fd25ec174d0d64cac68cb42e78a",
+    "url": "/img/standart-goal-C.52d81fd2.jpg"
+  },
+  {
+    "revision": "db7914d2bac7cf409775c8dfa4bb6fdd",
+    "url": "/img/standart-goal-D.db7914d2.jpg"
+  },
+  {
+    "revision": "9077da6472e06a2eb4ca7a979aa116d8",
+    "url": "/img/standart-goal-E.9077da64.jpg"
+  },
+  {
     "revision": "e759e94848307a901152d72bd0aa86e0",
     "url": "/img/standart-goal.e759e948.jpg"
+  },
+  {
+    "revision": "f30542ffdf33175531f574231d91d851",
+    "url": "/img/standart-wicket-A.f30542ff.jpg"
+  },
+  {
+    "revision": "424b54bc0de8bbfd75797a8e26e323d1",
+    "url": "/img/standart-wicket-B.424b54bc.jpg"
+  },
+  {
+    "revision": "7ff5935b089b5a5e6a529f42b986a834",
+    "url": "/img/standart-wicket-C.7ff5935b.jpg"
+  },
+  {
+    "revision": "d773fbc074f37d4e53436c7c0bca5ba5",
+    "url": "/img/standart-wicket-D.d773fbc0.jpg"
+  },
+  {
+    "revision": "ad5ce4fab9ce2e354cbf0a17574a9d20",
+    "url": "/img/standart-wicket-E.ad5ce4fa.jpg"
   },
   {
     "revision": "7adbc330a72678a260ffdb53e8e49e6e",
@@ -308,12 +428,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/work9.2017fc55.png"
   },
   {
-    "revision": "8250d41dce59f069fcc91447efea21ed",
+    "revision": "e6b33ab389fc960d027f01cb63f13c04",
     "url": "/index.html"
   },
   {
-    "revision": "c611caa73808d64c58a9",
-    "url": "/js/app.8cf452c3.js"
+    "revision": "79380daa1d5c768f1c9c",
+    "url": "/js/app.955393d1.js"
   },
   {
     "revision": "bb8b6f9c4cca11ff17b0",
