@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a857b21bf1f55b56993",
-    "url": "/css/app.947d1f1b.css"
+    "revision": "dc670e1f3f344eb5328e",
+    "url": "/css/app.2d15a9bd.css"
   },
   {
     "revision": "43d718b52abd2c8a435ad2dd412b9b5e",
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/index1.35b85a12.jpg"
   },
   {
-    "revision": "83f8d9c6e0a7f2475970af675da9bd58",
-    "url": "/img/index2.83f8d9c6.jpg"
+    "revision": "67d475f4f60eb0baba4723af5aeb9aa8",
+    "url": "/img/index2.67d475f4.jpg"
   },
   {
     "revision": "36944668c41b561ceb80b04ed2d413bd",
@@ -292,22 +292,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/slader2.8566b2a8.png"
   },
   {
-    "revision": "0e00377a349878e6dc0c3df3e8d69428",
-    "url": "/img/slider1.0e00377a.jpg"
-  },
-  {
-    "revision": "7b5648cddcc2e03418ab4be7b71718bc",
-    "url": "/img/slider2.7b5648cd.jpg"
-  },
-  {
-    "revision": "6c222260c4f1be081c693f725376826d",
-    "url": "/img/slider3.6c222260.jpg"
-  },
-  {
-    "revision": "619ad52130553c515fc37cf5c6676c5e",
-    "url": "/img/slidere.619ad521.png"
-  },
-  {
     "revision": "49e2ad84e0bbbc013fe7448285028b15",
     "url": "/img/standart-fence-A.49e2ad84.jpg"
   },
@@ -428,12 +412,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/work9.2017fc55.png"
   },
   {
-    "revision": "f1debe8fa34ff9cd3072e51c92f8a311",
+    "revision": "dfaa8394f3a95014be5a51362ac39179",
     "url": "/index.html"
   },
   {
-    "revision": "2a857b21bf1f55b56993",
-    "url": "/js/app.89964af8.js"
+    "revision": "dc670e1f3f344eb5328e",
+    "url": "/js/app.5880565b.js"
   },
   {
     "revision": "91263c07864c3592c9dd",
