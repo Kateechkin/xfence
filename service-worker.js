@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7b7d27bdbb90aef2d88e7de91cbb5ea8.js"
+  "/precache-manifest.7088fa376d7618e843807745c21c2b58.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "xfence"});
