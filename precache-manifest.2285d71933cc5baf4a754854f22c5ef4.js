@@ -1,7 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07235a3affb93040375a",
-    "url": "/css/app.e2a9092a.css"
+    "revision": "89eb865bfd9dfd02bbe0",
+    "url": "/css/app.3d70761a.css"
+  },
+  {
+    "revision": "6c084270ccdeb72fd9f5a5144cea628f",
+    "url": "/fonts/Raleway-Light.6c084270.ttf"
+  },
+  {
+    "revision": "2ec8557460d3a2cd7340b16ac84fce32",
+    "url": "/fonts/Raleway-Medium.2ec85574.ttf"
+  },
+  {
+    "revision": "75b4247fdd3b97d0e3b8e07b115673c2",
+    "url": "/fonts/Raleway-Regular.75b4247f.ttf"
+  },
+  {
+    "revision": "8a192102b50118c45033e53ce897f103",
+    "url": "/fonts/Raleway-SemiBold.8a192102.ttf"
+  },
+  {
+    "revision": "3b5635ac5d39c28200bf3993d90d09c7",
+    "url": "/fonts/Raleway-VariableFont_wght.3b5635ac.ttf"
   },
   {
     "revision": "43d718b52abd2c8a435ad2dd412b9b5e",
@@ -412,11 +432,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/work9.2017fc55.png"
   },
   {
-    "revision": "4c29e7d6a5efa7b81e9b96b06ca90448",
+    "revision": "1f47b7ff034edb8c38e88061778a5f83",
     "url": "/index.html"
   },
   {
-    "revision": "07235a3affb93040375a",
+    "revision": "89eb865bfd9dfd02bbe0",
     "url": "/js/app.1a17161a.js"
   },
   {
